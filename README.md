@@ -1,0 +1,2 @@
+- 🌃 Impacto de los operativos en el entorno de centros de diversión nocturna: https://omscgr.github.io/Impacto-de-los-operativos-en-el-entorno-de-centros-de-diversion-nocturna/
+- 💻 Noteboook: https://colab.research.google.com/drive/1yU-3ag3O-uaMGgdqkULPe8rD-UXjvSiD?usp=sharing
